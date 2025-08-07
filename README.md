@@ -1,5 +1,4 @@
 # Davi.Ricardo
-Meu repositório pessoal
 Sou Técnico em Informática, cursando Ciência da Computação, com paixão por tecnologia, automação e soluções inteligentes. Tenho experiência prática com montagem e manutenção de computadores, redes e suporte técnico.
 
 Atualmente, me aprofundo em desenvolvimento de software, automações, e projetos que unem estética, funcionalidade e inovação – como assistentes de IA locais, gadgets utilitários e setups personalizados.
